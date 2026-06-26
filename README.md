@@ -2,7 +2,7 @@
 
 A Coffee Shop app built with Kotlin, with some Java, and Firebase, focused on UI design, created as a quick project to test item addition to the cart functionality.
 
-- **APK File:** Download the latest `APK` file of this project and provide feedback 😃. [Download APK](https://github.com/HaroonBsf/Coffee-Shop/releases/download/v1.0.0/coffeeshop-1.0.0.apk)
+- **APK File:** Download the latest `APK` file of this project and provide feedback 😃. [Download APK](https://github.com/SohanDsouza03/Coffee-Shop/releases/download/v1.0.0/coffeeshop-1.0.0.apk)
 
 ## Features
 
@@ -35,7 +35,7 @@ A Coffee Shop app built with Kotlin, with some Java, and Firebase, focused on UI
 #### 2. Clone the Repo
 
 ```
-$ git clone https://github.com/HaroonBsf/Coffee-Shop
+$ git clone https://github.com/SohanDsouza03/Coffee-Shop
 $ cd Coffee-Shop/
 ```
 
@@ -49,7 +49,7 @@ $ cd Coffee-Shop/
       - Click on "Create Database."
       - Choose "Start in test mode" for initial setup and click "Enable."
 3. Add Data to Realtime Database:
-    - Download the provided [database_firebase.json](https://github.com/HaroonBsf/Coffee-Shop/releases/download/v1.0.0/database_firebase.json) file.
+    - Download the provided [database_firebase.json](https://github.com/SohanDsouza03/Coffee-Shop/releases/download/v1.0.0/database_firebase.json) file.
     - Go to the Firebase Realtime Database in the console.
     - Click on the three dots in the upper right corner and select Import JSON.
     - Choose the `database_firebase.json` file and import it to populate the database with initial data.
